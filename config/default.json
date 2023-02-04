@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://Yuriy:159753Ykk$@cluster0.hbjs9if.mongodb.net/?retryWrites=true&w=majority",
+  "mongoUriLocal": "mongodb://localhost:27017/mern-app3",
+  "jwtSecret": "yurik-mern-app",
+  "baseUrl": "http://localhost:5000"
+}
